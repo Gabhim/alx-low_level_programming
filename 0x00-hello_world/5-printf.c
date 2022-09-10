@@ -2,7 +2,7 @@
 
 /**
  * main - print the string "with proper grammar, but the outcome is a piece of art,
- * Return will return 0 if properly done
+ * Return:  will return 0 if properly done
 */
 int main(void)
 {
