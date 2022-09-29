@@ -1,1 +1,1 @@
-my first c readme
+more strings and arrays even
